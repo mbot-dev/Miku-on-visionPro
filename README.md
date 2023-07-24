@@ -14,12 +14,17 @@ The virtual singer, Hatsune Miku, has many fans around the world, regardless of 
 Using the starter template for the Vision program, I loaded her in a pose. Please clone this repository and open it in XCode 15.0 beta. When you launch the Vision Pro simulator, she will appear.
 
 
- 
+　
 ## Directly View the Model in the Repository - Distribution Prohibited
 The model being displayed is included in this repository. The file name is v211_moko_03.usdz. You can download this and view it directly, for example, in Mac's preview. However, distribution of this model is prohibited by the copyright owner of Hatsune Miku. Please see the licensing terms for more details.
 
 
- 
+　
+## Problems
+The costume becomes transparent depending on the viewing angle. This does not happen in Blender. It seems to be a side effect of converting to USDZ, but I do not know how to solve it. I have searched the internet, but it remains unclear. I would be happy if you could inform me of the solution through an issue.
+
+
+　
 ## How to Convert MikuMikuDance Format to USDZ
 I converted the MMD format to USDZ using the following method.
 
@@ -69,9 +74,6 @@ I put a red frame around the confusing parts in the images. Please use them as a
  1. It will be automatically converted to usdz format. Save it when done.
 
 ![MMD Tool Palette](mmd_palette.png)![Export to glTF ](export_to_gltf.png)
-
-## Problems
-The costume becomes transparent depending on the viewing angle. This does not happen in Blender. It seems to be a side effect of converting to USDZ, but I do not know how to solve it. I have searched the internet, but it remains unclear. I would be happy if you could inform me of the solution through an issue.
 
 
  
