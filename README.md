@@ -1,5 +1,7 @@
 # Hastune Miku on Vision Pro
 
+[日本語版 README](README-JP.md)
+
 ![Miku with visionPro](v211_moko_03.png)
 
 

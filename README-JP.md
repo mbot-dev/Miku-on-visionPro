@@ -1,5 +1,7 @@
 # Hastune Miku on Vision Pro
 
+[English README](README.md)
+
 ![Miku with visionPro](v211_moko_03.png)
 
 ## プロジェクトの目的
